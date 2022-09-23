@@ -5,6 +5,18 @@
 ### all of this was super not needed....
 - just go here https://rubyinstaller.org/downloads/
 
+
+
+
+
+
+
+
+
+
+
+
+
 - I created/installed a wsl env
     - aka windows linux subsystem
         - in my case ubuntu
