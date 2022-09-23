@@ -2,8 +2,8 @@
 ## I started here https://www.ruby-lang.org/en/documentation/installation/
 ### which is why I did a wsl approach https://learn.microsoft.com/en-us/windows/wsl/about
 
-### all of this was super not needed....
-- just go here https://rubyinstaller.org/downloads/
+## all of this was super not needed....
+### just go here https://rubyinstaller.org/downloads/
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-
+### ignore this I am keeping it for later with ubuntu stuff though
 - I created/installed a wsl env
     - aka windows linux subsystem
         - in my case ubuntu
