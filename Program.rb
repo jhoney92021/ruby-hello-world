@@ -10,6 +10,7 @@ require "For_Get_Average"
 require "Odd_Array"
 require "GreaterThanY"
 require "Square_Array"
+require "Positive_Array"
     
 # For_Print_To255.Do()
 # While_Print_To255.Do()
@@ -26,4 +27,7 @@ GreaterThanY.Parse(testArray,7)
 
 toSquare = [1,5,10,-10]
 Square_Array.SquareEm(toSquare)
+
+superNegative = [-1,-5,-25,-10]
+Positive_Array.Robbins(superNegative)
 
